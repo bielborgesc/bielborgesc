@@ -14,7 +14,7 @@
 </div>
 
  ##
-  <p>Technologies that I have some knowledge of</p>
+  - Technologies that I have some knowledge of:
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
