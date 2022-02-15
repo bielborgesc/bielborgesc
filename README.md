@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working with software development.
 - 🌱 I'm currently learning about web development
-- ⚡ Curiosity: I am studying Systems Analysis and Development, I have advanced English and I love to learn new things
+- ⚡ Curiosity: I am studying Systems Analysis and Development, I have advanced English and I love to learn new things.
+- Main Stack: JavaScript, React, Redux, Redux-Saga.
 
 ##
 
@@ -13,6 +14,7 @@
 </div>
 
  ##
+  <p>Technologies that I have some knowledge of</p>
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
