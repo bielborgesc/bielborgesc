@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working with software development.
-- 🌱 I'm currently learning about web development
+- 🌱 I'm currently learning about web development and mobile development
 - ⚡ Curiosity: I am studying Systems Analysis and Development, I have advanced English and I love to learn new things.
 
 ##
