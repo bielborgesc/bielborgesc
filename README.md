@@ -1,33 +1,62 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Gabriel Borges
 
-- 🔭 I’m currently working with software development.
-- 🌱 I'm currently learning about web development.
-- ⚡ Curiosity: I am studying Systems Analysis and Development, I have advanced English and I love to learn new things.
+🎯 Desenvolvedor de Software com foco em **Back-end** e interesse crescente em **dados e geração de insights**.  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas.  
+🌱 Atualmente explorando tecnologias que unem código, eficiência e propósito.
 
-##
+---
+
+### 💼 Tecnologias e ferramentas com as quais já trabalhei:
+
+<div align="center">
+  <img align="center" alt="Biel-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img align="center" alt="Biel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Biel-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Biel-NestJS" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
+  <img align="center" alt="Biel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Biel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Biel-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img align="center" alt="Biel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Biel-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Biel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Biel-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div>
+
+---
+
+### 📊 Atualmente estudando:
+- SQL avançado e modelagem de dados
+- Python para dados com Pandas e Streamlit
+- Boas práticas em back-end e arquitetura de APIs
+- Visualização de dados e insights de negócio
+
+---
+
+### 📈 GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/bielborgesc">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=bielborgesc&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielborgesc&layout=compact&langs_count=7&theme=graywhite"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bielborgesc&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielborgesc&layout=compact&langs_count=7&theme=default"/>
+  </a>
 </div>
 
- ##  
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Biel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Biel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Biel-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+---
 
+### 🌐 Onde me encontrar:
+
+<div align="center">
+  <a href="mailto:gabrielborges565@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bielborgesc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/biel_borgesc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-  
-  ##
-  
-  <div align="center"> 
-  <a href="https://www.instagram.com/biel_borgesc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/tvmTgA4D" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielborges565@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-carvalho-714791196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/bielborgesc/bielborgesc/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+### 💡 Sobre mim:
+
+> Gosto de resolver problemas com código e clareza.  
+> Curioso por natureza, e sempre buscando unir propósito com tecnologia.  
+> Ainda descobrindo meu caminho, mas já com os pés bem firmes no chão.
+
