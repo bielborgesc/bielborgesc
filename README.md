@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Gabriel Borges
 
-🎯 Engenheiro de Software.  
+🎯 Engenheiro de Software com foco em back-end e desenvolvimento web moderno.  
 🎓 Graduado em Análise e Desenvolvimento de Sistemas.  
-🌱 Atualmente explorando tecnologias que unem código, eficiência e propósito.
+🚀 Atualmente aprimorando minha stack com .NET, C# e Angular para criar soluções eficientes e escaláveis.
 
 ---
 
@@ -18,18 +18,18 @@
   <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Biel-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Biel-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Biel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Biel-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Biel-Postgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
 
 ### 📊 Atualmente estudando:
-- SQL avançado e modelagem de dados
-- Python para dados com Pandas e Streamlit
-- Boas práticas em back-end e arquitetura de APIs
-- Visualização de dados e insights de negócio
+- Arquitetura limpa com .NET
+- Angular avançado (componentização e reatividade)
+- Práticas de testes e integração contínua
+- Padrões de projeto e boas práticas para APIs RESTful
 
 ---
 
@@ -56,7 +56,6 @@
 
 ### 💡 Sobre mim:
 
-> Gosto de resolver problemas com código e clareza.  
-> Curioso por natureza, e sempre buscando unir propósito com tecnologia.  
-> Ainda descobrindo meu caminho, mas já com os pés bem firmes no chão.
-
+> Gosto de construir soluções robustas com código limpo e bem estruturado.  
+> Busco sempre aprender algo novo e evoluir como desenvolvedor e como pessoa.  
+> Valorizo clareza, propósito e qualidade em tudo que faço.
