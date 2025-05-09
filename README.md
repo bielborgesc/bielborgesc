@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Borges
 
-🎯 Desenvolvedor de Software com foco em **Back-end** e interesse crescente em **dados e geração de insights**.  
+🎯 Engenheiro de Software.  
 🎓 Graduado em Análise e Desenvolvimento de Sistemas.  
 🌱 Atualmente explorando tecnologias que unem código, eficiência e propósito.
 
