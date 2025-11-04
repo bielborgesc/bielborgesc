@@ -19,6 +19,16 @@
 
 ---
 
+### 📁 Sobre meus repositórios:
+
+Meus repositórios seguem uma convenção de prefixos para facilitar a navegação:
+
+- **`sp-`** → **Student Projects**: Projetos criados para estudo e experimentação
+- **`tt-`** → **Technical Tests**: Testes técnicos realizados para processos seletivos
+- **Sem prefixo** → **Projetos Pessoais**: Projetos ativos em constante manutenção e evolução
+
+---
+
 ### 💼 Tecnologias e ferramentas com as quais já trabalhei:
 
 <div align="center">
