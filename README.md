@@ -6,6 +6,19 @@
 
 ---
 
+### 🌟 Projetos em Destaque:
+
+#### 🐷 [Piggino](https://github.com/bielborgesc/piggino)
+> Sistema de controle financeiro pessoal simples, amigável e escalável
+
+**Descrição:** Piggino ajuda usuários a gerenciar receitas, despesas, parcelas de cartão de crédito e alertas de pagamentos futuros — tudo em uma experiência intuitiva e personalizável.
+
+**Tecnologias:** C#, .NET, React, TypeScript, Vite, TailwindCSS, Docker, GitHub Actions
+
+**Status:** ✅ Em manutenção ativa | [🔗 Demo ao vivo](https://piggino.duckdns.org/)
+
+---
+
 ### 💼 Tecnologias e ferramentas com as quais já trabalhei:
 
 <div align="center">
