@@ -55,12 +55,13 @@ Meus repositórios seguem uma convenção de prefixos para facilitar a navegaç�
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 Sobre meu trabalho:
 
-<a href="https://github.com/bielborgesc">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bielborgesc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielborgesc&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
+![](https://img.shields.io/badge/foco-Back--end%20%7C%20.NET-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![](https://img.shields.io/badge/experiência-3%2B%20anos-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![](https://img.shields.io/badge/stack-C%23%20%7C%20React%20%7C%20TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![](https://img.shields.io/badge/deploy-Docker%20%7C%20GitHub%20Actions-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![](https://img.shields.io/badge/idiomas-PT%20nativo%20%7C%20EN%20avançado-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 
 ---
 
