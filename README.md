@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Borges
 
-🎯 Desenvolvedor de Software com foco em back-end e desenvolvimento web moderno.  
+🎯 Desenvolvedor de Software com experiência em back-end, front-end e infraestrutura.
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IFSP.  
 🚀 Atualmente aprofundando conhecimentos em Arquitetura de Software — Clean Architecture, DDD e design de sistemas escaláveis.
 
@@ -57,7 +57,6 @@ Meus repositórios seguem uma convenção de prefixos para facilitar a navegaç�
 
 ### 📈 Sobre meu trabalho:
 
-![](https://img.shields.io/badge/foco-Back--end%20%7C%20.NET-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 ![](https://img.shields.io/badge/experiência-3%2B%20anos-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 ![](https://img.shields.io/badge/stack-C%23%20%7C%20React%20%7C%20TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 ![](https://img.shields.io/badge/deploy-Docker%20%7C%20GitHub%20Actions-0d1117?style=flat-square&labelColor=0d1117&color=238636)
@@ -67,6 +66,7 @@ Meus repositórios seguem uma convenção de prefixos para facilitar a navegaç�
 
 ### 🌐 Onde me encontrar:
 
+[![Portfólio](https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=vercel&logoColor=white)](https://bielborgesc.vercel.app)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielborges565@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007AB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielborgesc)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_borgesc)
@@ -75,6 +75,6 @@ Meus repositórios seguem uma convenção de prefixos para facilitar a navegaç�
 
 ### 💡 Sobre mim:
 
-> Gosto de construir soluções robustas com código limpo e bem estruturado.  
-> Busco sempre aprender algo novo e evoluir como desenvolvedor e como pessoa.  
-> Valorizo clareza, propósito e qualidade em tudo que faço.
+> Desenvolvedor de software com 3+ anos de experiência, especializado em C#, ASP.NET 8 e APIs RESTful.
+> Atuo com desenvolvimento e manutenção de sistemas financeiros críticos, com experiência em ambientes de alta complexidade, integração com clientes internacionais e equipes ágeis.
+> Tenho experiência full-stack com React e TypeScript, boas práticas de DevOps com Docker e GitHub Actions, e interesse em arquitetura de software, Clean Architecture e soluções SaaS escaláveis.
