@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Borges
 
-🎯 Desenvolvedor de Software com experiência em back-end, front-end e infraestrutura.
+🎯 Desenvolvedor de Software com experiência em back-end, front-end e infraestrutura.  
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IFSP.  
 🚀 Atualmente aprofundando conhecimentos em Arquitetura de Software — Clean Architecture, DDD e design de sistemas escaláveis.
 
