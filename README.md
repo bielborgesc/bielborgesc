@@ -32,6 +32,18 @@
 
 ---
 
+#### 👕 [GetsCami](https://github.com/bielborgesc/getscami)
+
+> Plataforma de gerenciamento de pedidos para eventos e congressos
+
+**Descrição:** Sistema de pedidos de camisetas instalável como PWA, com geração de relatórios em PDF. Em expansão para um mini e-commerce multi-evento com painel administrativo.
+
+**Tecnologias:** React 19, TypeScript, Supabase, TanStack Query, Tailwind CSS
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
 ### 📁 Sobre meus repositórios:
 
 Meus repositórios seguem uma convenção de prefixos para facilitar a navegação:
